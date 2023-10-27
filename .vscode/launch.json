@@ -11,7 +11,8 @@
             "name": "Python: App",
             "program": "${workspaceFolder}/app.py",
             "env": {
-                "DEVELOPMENT": "True"
+                "DEVELOPMENT": "True",
+                "SECRET_KEY": "#gpvk%pta(qbrb%vp17mo$gfk*&jd1j*#g5=^7+o9k!h93i^6$"
             }
             
           }
